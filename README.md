@@ -2,7 +2,7 @@
 
 I'm a software developer with a passion for building efficient and scalable applications. I love working with modern technologies like Html, Css, JavaScript, Java.
 
-[![](https://komarev.com/ghpvc/?username=khalyruot&color=blue)]
+![](https://komarev.com/ghpvc/?username=khalyruot&color=blue)
 
 ## 🚀 Projects & Contributions
 - [Project 1](https://github.com/khalyruot/project1): Description of your project.
