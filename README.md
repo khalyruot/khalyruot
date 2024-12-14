@@ -10,7 +10,7 @@ I'm a software developer with a passion for building efficient and scalable appl
 
 ## 📬 Connect with Me
 - Email: khalyruot123@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/khalyruot)
+- [LinkedIn](https://www.linkedin.com/in/khaly-ruot-4025381b5/)
 
 ## 💻 Technologies I Work With
 - JavaScript
