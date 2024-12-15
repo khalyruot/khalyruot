@@ -16,6 +16,12 @@ I'm a software developer with a passion for building efficient and scalable appl
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
 </p>
 
+<h3>My GitHub contributions summary</h3>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=khalyruot&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=khalyruot&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
+
 ## 🚀 Projects & Contributions
 - [Project 1](https://github.com/khalyruot/project1): Description of your project.
 - [Project 2](https://github.com/khalyruot/project2): Description of your second project.
