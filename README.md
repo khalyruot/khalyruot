@@ -22,10 +22,6 @@ I'm a software developer with a passion for building efficient and scalable appl
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=khalyruot&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
 
-## 🚀 Projects & Contributions
-- [Project 1](https://github.com/khalyruot/project1): Description of your project.
-- [Project 2](https://github.com/khalyruot/project2): Description of your second project.
-
 ## 📬 Connect with Me
 - Email: khalyruot123@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/khaly-ruot-4025381b5/)
