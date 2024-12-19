@@ -1,4 +1,4 @@
-# Hello, I'm Khalyruot 👋
+# Hello, I'm Khaly 👋
 
 I'm a software developer with a passion for building efficient and scalable applications. I love working with modern technologies like Html, Css, JavaScript, Java.
 
